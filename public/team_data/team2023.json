@@ -1,0 +1,39 @@
+[
+    {
+        "Name": "Ishan Gupta",
+        "Email": "",
+        "Designation": "Founder & CEO",
+        "Image": "./assets/team/ishan-gupta.jpeg",
+        "GitHub": "",
+        "Twitter": "https://twitter.com/IshanGupta03",
+        "LinkedIn": "https://www.linkedin.com/in/ishangupta03"
+    },
+    {
+        "Name": "Ritesh Gupta",
+        "Email": "",
+        "Designation": "CMO",
+        "Image": "./assets/team/ritesh.jpg",
+        "GitHub": "",
+        "Twitter": "",
+        "LinkedIn": "https://www.linkedin.com/in/4vir4l"
+    },
+    {
+        "Name": "Harsh Jonwal",
+        "Email": "",
+        "Designation": "COO",
+        "Image": "./assets/team/harsh.jpg",
+        "GitHub": "",
+        "Twitter": "",
+        "LinkedIn": "https://www.linkedin.com/in/vedanshgoyal"
+    },
+    {
+        "Name": "Aman Maurya",
+        "Email": "",
+        "Designation": "CFO",
+        "Image": "./assets/team/aman.jpg",
+        "GitHub": "",
+        "Twitter": "",
+        "LinkedIn": "https://www.linkedin.com/in/aditya-lashkary"
+    }
+    
+]
