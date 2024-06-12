@@ -440,14 +440,14 @@ export default function Home() {
               <Card
                 disabled
                 title="Start your Journey"
-                content="Joining Team Green Campus Chapters isn't just about environmental activism – it's about unlocking your leadership potential. Get ready to lead the charge for change, organize impactful events, and inspire others to join the movement. Elevate your skills, boost your confidence, and become a leader worth following."
+                content="It isn't just about environmental activism – it's about unlocking your leadership potential. Get ready to lead the charge for change, organize impactful events, and inspire others to join the movement. Elevate your skills, boost your confidence, and become a leader worth following."
 
               />
               {/* Card-2 */}
               <Card
                 disabled
                 title="Network Growth"
-                content="Team Green Campus Chapters connects you with a nation-wide network of environmentally-conscious students, professionals, and organizations. Through collaboration on projects and participation in events, you'll have the opportunity to build meaningful relationships, exchange ideas, and learn from others who share your passion for environmental sustainability."
+                content="We connect you with a nation-wide network of environmentally-conscious students, professionals, and organizations. Through collaboration on projects and participation in events, you'll have the opportunity to build meaningful relationships, exchange ideas, and learn from others who share your passion for environmental sustainability."
               />
             </div>
           </div>
@@ -461,13 +461,13 @@ export default function Home() {
               <Card
                 disabled
                 title="Hands-On Experience"
-                content="Team Green Campus Chapters offer a platform for you to actively engage in environmental conservation efforts on your campus and in your community. Whether it's organizing tree planting drives, expert talks, or advocating for sustainable practices, you'll gain practical experience and make a tangible impact on the environment. Join us and be a changemaker! #GoGreen #CaringForMotherEarth"
+                content="We offer a platform for you to actively engage in environmental conservation efforts on your campus and in your community. Whether it's organizing tree planting drives, expert talks, or advocating for sustainable practices, you'll gain practical experience and make a tangible impact on the environment. Join us and be a changemaker! #GoGreen #CaringForMotherEarth"
               />
 
               {/* Card-4 */}
               <Card
                 title="Recognition &amp; Rewards"
-                content="Upon completing your term with Team Green Campus Chapters, you'll receive a personalized certificate acknowledging your contributions to sustainability. Additionaly, a tree will be planted in your name as a symbol of your dedication to environmental conservation. But that's not all! Top performers will also receive goodies based on their performance, rewarding your efforts in making a tangible impact on the planet."
+                content="You'll receive a personalized certificate acknowledging your contributions to sustainability. Additionaly, a tree will be planted in your name as a symbol of your dedication to environmental conservation. But that's not all! Top performers will also receive goodies based on their performance, rewarding your efforts in making a tangible impact on the planet."
               />
             </div>
           </div>
